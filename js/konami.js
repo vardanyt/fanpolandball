@@ -40,7 +40,7 @@ document.addEventListener('keydown', function(e) {
 function activateCheats() {
   document.body.style.backgroundImage = "url('http://fanpolandball.tk/images/hamstaer.png')";
 
-  var audio = new Audio('audio/chomp.mp3');
+  var audio = new Audio('audio/chom.mp3');
   audio.play();
 
   alert("for da power of hamstaer");
