@@ -38,7 +38,7 @@ document.addEventListener('keydown', function(e) {
 });
 
 function activateCheats() {
-  document.body.style.backgroundImage = "url('images/hamstaer.png')";
+  document.body.style.backgroundImage = "url('http://fanpolandball.tk/images/hamstaer.png')";
 
   var audio = new Audio('audio/chomp.mp3');
   audio.play();
